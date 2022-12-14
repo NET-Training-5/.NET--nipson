@@ -1,0 +1,15 @@
+F:\C#\.NET--nipson\bin\Debug\net7.0\.NET--nipson.exe
+F:\C#\.NET--nipson\bin\Debug\net7.0\.NET--nipson.deps.json
+F:\C#\.NET--nipson\bin\Debug\net7.0\.NET--nipson.runtimeconfig.json
+F:\C#\.NET--nipson\bin\Debug\net7.0\.NET--nipson.dll
+F:\C#\.NET--nipson\bin\Debug\net7.0\.NET--nipson.pdb
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.csproj.AssemblyReference.cache
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.AssemblyInfoInputs.cache
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.AssemblyInfo.cs
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.csproj.CoreCompileInputs.cache
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.dll
+F:\C#\.NET--nipson\obj\Debug\net7.0\refint\.NET--nipson.dll
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.pdb
+F:\C#\.NET--nipson\obj\Debug\net7.0\.NET--nipson.genruntimeconfig.cache
+F:\C#\.NET--nipson\obj\Debug\net7.0\ref\.NET--nipson.dll
