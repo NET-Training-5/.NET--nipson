@@ -33,15 +33,3 @@ class Animal
     }
 }
 
-// 1. Think of a real world scnario for following:
-//     ``` 
-//         TypeB inherits TypeA
-//         TypeB implements InterfaceA
-//     ```
-//     1. Note that **TypeA** should have at least two methods, two fields and two properties.
-//     1. Create instance of **TypeB**, show output of those methods in console.
-// string animal; //variable
-// public void animal_height()
-//{
-//    return "height";
-//} 
